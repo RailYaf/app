@@ -1,0 +1,11 @@
+.header {
+  &__logo {
+    height: 40px;
+    width: 165px;
+    min-width: 165px;
+    background-image: url("~shared/assets/images/png/header_logo.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+  }
+}
